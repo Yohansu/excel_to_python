@@ -1,0 +1,16 @@
+# created by virtualenv automatically
+
+#Virtual env
+venv/
+.venv/
+env/
+
+#Jupyter
+.ipynb_checkpoints/
+
+#Python cache
+__pycache__/
+*.pyc
+
+#PyCharm
+.idea/
